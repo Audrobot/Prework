@@ -45,25 +45,22 @@ h3 {
 
 h4 {
   margin: 20px 30px 15px;
-	font-size: 18px;
-	font-style: normal;
-	font-variant: normal;
-	font-weight: 500;
+  font-size: 18px;
+  font-weight: normal;
   line-height: 25px;
   color: white;
 }
 
 p {
   margin: 25px 30px 15px;
-	font-size: 18px;
-	font-style: normal;
+  font-size: 18px;
   line-height: 25px;
-  color: white;
+  color: white; 
 }
 
 ul {
   margin: 40px;
-	font-size: 18px;
+  font-size: 18px;
   line-height: 22px;
   color: white;
 }
